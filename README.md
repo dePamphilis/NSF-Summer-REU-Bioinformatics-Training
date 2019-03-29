@@ -13,7 +13,7 @@
 |            |            | 01:30 PM | Sequence Alignment                     | [Pairwise and Multiple Sequence Alignments][alignment-slides]         | [Orthogroup Alignments][alignment-exercise]      | 402 Life Sciences Bldg | Eric                |
 | Tuesday    | 06/11/2019 | 09:30 AM | Phylogenetic Inference                 | [Phylogenetic Tree Inference Methods][phylogenetic-slides]            | [Orthogroup Phylogenies][phylogenetic-exercise]  | 402 Life Sciences Bldg | Prakash             |
 | Wednesday  | 06/12/2019 | 09:30 AM | Evolutionary Rate Analysis             | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
-| Thursday   | 06/13/2019 | 09:30 AM | Review  Session                        |                                                                       |                                                  |                        | Noah, Eric, Prakash |
+| Thursday   | 06/13/2019 | 09:30 AM | Review  Session                        |                                                                       |                                                  | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 
 [biology-slides]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [biology-materials]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
