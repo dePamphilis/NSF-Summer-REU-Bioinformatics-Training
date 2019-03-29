@@ -1,4 +1,4 @@
-2019 NSF Summer REU Bioinformatics Schedule
+# 2019 NSF Summer REU Bioinformatics Training Schedule
 
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
