@@ -1,7 +1,7 @@
 ## 2019 NSF Summer REU Bioinformatics Training Schedule
 
 
-| **Day**    | **Date**	  | **Time  ** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
+| **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday     | 06/03/2019 | 09:30 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials]      |                                                  | 422 Life Sciences Bldg | Mark                |
 | Monday     | 06/03/2019 | 12:00 PM | Plant Taxonomy Field Trip              |                                                                       |                                                  |                        | Claude              |
