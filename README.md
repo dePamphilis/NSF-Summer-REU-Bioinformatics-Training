@@ -3,7 +3,7 @@
 **Monday 07/03/2019 - Friday 07/13/2019**
 
 | **Day**    | **Date**	  | **Time**            | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
-| --------   | --------   | --------            | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
+| --------   | -------------   | --------            | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday     | 06/03/2019 | 09:30 AM - 11:30 PM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials]      |                                                  | 422 Life Sciences Bldg | Mark                |
 |            |            | 12:00 PM - 04:30 PM | Plant Taxonomy Field Trip              |                                                                       |                                                  |                        | Claude              |
 | Tuesday    | 06/04/2019 | 09:30 AM - 04:30 PM | Biological Databases & Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 402 Life Sciences Bldg | Eric                |
