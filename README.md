@@ -3,7 +3,7 @@
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
-| Monday     | 06/03/2019 | 09\:30 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials]      |                                                  | 422 Life Sciences Bldg | Mark                |
+| Monday     | 06/03/2019 | 09:30 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials]      |                                                  | 422 Life Sciences Bldg | Mark                |
 | Monday     | 06/03/2019 | 12:00 PM | Plant Taxonomy Field Trip              |                                                                       |                                                  |                        | Claude              |
 | Tuesday    | 06/04/2019 | 09:30 AM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 402 Life Sciences Bldg | Eric                |
 | Wednesday  | 06/05/2019 | 09:30 AM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides]     | [DE Analysis][expression-exercise]               | 402 Life Sciences Bldg | Noah                |
@@ -33,3 +33,8 @@
 [phylogenetic-exercise]: https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [rates-slides]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [rates-exercise]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+
+table {
+    width:100%;
+}
+
