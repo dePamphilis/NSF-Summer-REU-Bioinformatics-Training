@@ -27,8 +27,8 @@
 [evolution-slides]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [evolution-materials]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [alignment-slides]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[alignment-exercise]:    https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[alignment-exercise]:    https://galaxyproject.org/tutorials/pt_gfam/
 [phylogenetic-slides]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[phylogenetic-exercise]: https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[phylogenetic-exercise]: https://galaxyproject.org/tutorials/pt_gfam/
 [rates-slides]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[rates-exercise]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[rates-exercise]:        https://galaxyproject.org/tutorials/pt_gfam/
