@@ -16,8 +16,8 @@
 
 [biology-slides]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [biology-materials]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[databases-slides]:      https://bioboot.github.io/bioinf525_w16/module1/
-[databases-exercise]:    https://bioboot.github.io/bioinf525_w16/module1/
+[databases-slides]:      https://bioboot.github.io/bioinf525_w16/class-material/lecture1-1_525_W16_large.pdf
+[databases-exercise]:    https://bioboot.github.io/bioinf525_w16/class-material/lab_1.1_w16.pdf
 [expression-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [expression-exercise]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [genefamily-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
