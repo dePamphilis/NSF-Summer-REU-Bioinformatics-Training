@@ -21,7 +21,7 @@
 [expression-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [expression-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
 [genefamily-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[genefamily-exercise]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[genefamily-exercise]:   https://galaxyproject.org/tutorials/pt_gfam/
 [enrichment-exercise]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [enrichment-exercise]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [evolution-slides]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
