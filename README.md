@@ -6,7 +6,7 @@
 | Monday     | 06/03/2019 | 12:00 PM | Plant Taxonomy Field Trip              |                                                                       |                                                  |                        | Claude              |
 | Tuesday    | 06/04/2019 | 09:30 AM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 402 Life Sciences Bldg | Eric                |
 | Wednesday  | 06/05/2019 | 09:30 AM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides]     | [DE Analysis][expression-exercise]               | 402 Life Sciences Bldg | Noah                |
-| Thursday   | 06/06/2019 | 09:30 AM | Gene Family Analysis                   | [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        | 402 Life Sciences Bldg | Prakash             |
+| Thursday   | 06/06/2019 | 09:30 AM | Gene Family Analysis                   | [Introduction to PlantsTribe][plantstribe-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        | 402 Life Sciences Bldg | Eric and Prakash             |
 | Friday     | 06/07/2019 | 09:30 AM | Gene Set Enrichment Analysis           | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 402 Life Sciences Bldg | Noah                |
 | Monday     | 06/10/2019 | 09:30 AM | Evolutionary Biology Talk              | [Slides][evolution-slides], [Reading Materials][evolution-materials]  |                                                  | 403 Life Sciences Bldg | Claude              |
 | Monday     | 06/10/2019 | 01:30 PM | Sequence Alignment                     | [Pairwise and Multiple Sequence Alignments][alignment-slides]         | [Orthogroup Alignments][alignment-exercise]      | 402 Life Sciences Bldg | Eric                |
@@ -22,6 +22,7 @@
 [expression-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
 [genefamily-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [genefamily-exercise]:   https://galaxyproject.org/tutorials/pt_gfam/
+[plantstribe-slides]:    https://galaxyproject.org/events/2019-pag/
 [enrichment-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [enrichment-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
 [evolution-slides]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
