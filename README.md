@@ -18,7 +18,7 @@
 [biology-materials]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [databases-slides]:      https://bioboot.github.io/bioinf525_w16/class-material/lecture1-1_525_W16_large.pdf
 [databases-exercise]:    https://bioboot.github.io/bioinf525_w16/class-material/lab_1.1_w16.pdf
-[expression-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[expression-slides]:     http://lmp.utoronto.ca/sites/default/files/Oct_15_LMP_bioinformatics_presentation_v2.pdf
 [expression-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
 [genefamily-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [genefamily-exercise]:   https://galaxyproject.org/tutorials/pt_gfam/
