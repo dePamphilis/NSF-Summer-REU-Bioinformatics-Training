@@ -4,12 +4,11 @@
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday     | 06/03/2019 | 09:00 AM | EHS Training (Nick) | None |   None | N308A MSC, Meet Lena in front of Millenium Science Bldg | Nick and Lena  |
 | Monday     | 06/03/2019 | 10:00 AM | WPS Training (Nick) | None |   None | 06 Eisenhower Parking Deck | Nick |
-| Monday     | 06/03/2019 | 11:00 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            |  | Siela |
-| Monday     | 06/03/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
+| Monday     | 06/03/2019 | 11:00 - 11:45 | Lunch  | -- | -- | -- | -- |
 | Monday     | 06/03/2019 | 12:00 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |                        | Claude              |
-| Tuesday    | 06/04/2019 | 09:30 - 12:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
+| Monday     | 06/03/2019 | 9:30 - 11:30 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            | 421 Life Sciences Bldg | Siela |
 | Tuesday     | 06/04/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers Cont. | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
+| Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
 | Wednesday  | 06/05/2019 | 09:30 - 12:00 PM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               |  | Noah                |
 | Wednesday     | 06/05/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Wednesday  | 06/05/2019 | 01:00 - 04:00 PM | Gene Expression Analysis Cont.             | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               |  | Noah                |
