@@ -17,16 +17,12 @@
 | Sunday     | 07/14/2019 | 09:30 AM | Weekend-off                     |       |                                                  | 422 Life Sciences Bldg |                 |
 | Monday     | 07/15/2019 | 09:00 - 10:30 AM | Tour Greenhouses              |                                                                       |                                                  |                        | Lena and Mel              |
 | Monday     | 07/15/2019 | 10:30 - 11:30 AM | Intro to Biotechnology              |                                                                       |                                                  |                        | Siela              |
-| Monday     | 07/15/2019 | 11:30 - 12:00 AM | Grind Leaf Tissue              |                                                                       |                                                  |                        | Lena and Mel              |
-| Tuesday    | 07/016/2019 | 09:30 AM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 402 Life Sciences Bldg | Eric                |
-| Wednesday  | 06/05/2019 | 09:30 AM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               | 402 Life Sciences Bldg | Noah                |
-| Thursday   | 06/06/2019 | 09:30 AM | Gene Family Analysis                   | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        | 402 Life Sciences Bldg | Eric             |
-| Friday     | 06/07/2019 | 09:30 AM | Gene Set Enrichment Analysis           | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 402 Life Sciences Bldg | Noah                |
-| Monday     | 06/10/2019 | 09:30 AM | Evolutionary Biology Talk              | [Slides][evolution-slides], [Reading Materials][evolution-materials]  |                                                  | 403 Life Sciences Bldg | Claude              |
-| Monday     | 06/10/2019 | 01:30 PM | Sequence Alignment                     | [Pairwise and Multiple Sequence Alignments][alignment-slides]         | [Orthogroup Alignments][alignment-exercise]      | 402 Life Sciences Bldg | Prakash                |
-| Tuesday    | 06/11/2019 | 09:30 AM | Phylogenetic Inference                 | [Phylogenetic Tree Inference Methods][phylogenetic-slides]            | [Orthogroup Phylogenies][phylogenetic-exercise]  | 402 Life Sciences Bldg | Prakash             |
-| Wednesday  | 06/12/2019 | 09:30 AM | Evolutionary Rate Analysis             | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
-| Thursday   | 06/13/2019 | 09:30 AM | Review  Session                        |                                                                       |                                                  | 402 Life Sciences Bldg | Noah, Eric, Prakash |
+| Monday     | 07/15/2019 | 11:30 - 12:00 AM | DNA Extraction              | [Reading][dna-extraction]                                                                      |                                                  |                        | Lena and Mel              |
+| Monday     | 07/15/2019 | 12:00 - 1:00 PM | Lunch              |                                                                       |                                                  |                        |              |
+| Monday     | 07/15/2019 | 1:00 - 4:00 PM | DNA Extraction             |                                                                       |                                                  |                        | Lena and Mel              |
+| Tuesday    | 07/16/2019 | 09:00 - 12:00 PM | DNA Extraction, Cloning  |   | 402 Life Sciences Bldg | Lena and Mel               |
+| Tuesday    | 07/16/2019 | 12:00 - 1:00 PM | Lunch  |   | 402 Life Sciences Bldg |                |
+| Tuesday    | 07/16/2019 | 1:00 - 4:00 PM | Cloning  |  [Reading][cloning-miniprep] | 402 Life Sciences Bldg |                |
 
 [biology-slides]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [biology-materials]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
@@ -49,3 +45,5 @@
 [phylogenetic-exercise]: https://galaxyproject.org/tutorials/pt_gfam/
 [rates-slides]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [rates-exercise]:        https://galaxyproject.org/tutorials/pt_gfam/
+[dna-extraction]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[cloning-miniprep]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
