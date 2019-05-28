@@ -28,9 +28,9 @@
 | Wednesday  | 06/12/2019 | 09:30 - 12:00 PM | Evolutionary Rate Analysis             | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
 | Wednesday    | 06/12/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Wednesday  | 06/12/2019 | 01:00 - 04:00 PM | Evolutionary Rate Analysis Cont.          | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
-| Thursday   | 06/13/2019 | 09:30 - 12:00 PM | Review  Session, Presentation Prep                        |    |                                                  | 402 Life Sciences Bldg | Noah, Eric, Prakash |
+| Thursday   | 06/13/2019 | 09:30 - 12:00 PM | Review  Session, Presentation Prep                        | None   |   None                                               | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 | Thursday    | 06/13/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Thursday   | 06/13/2019 | 01:00 - 04:00 PM | Review  Session, Presentation Prep                        |    |                                                  | 402 Life Sciences Bldg | Noah, Eric, Prakash |
+| Thursday   | 06/13/2019 | 01:00 - 04:00 PM | Review  Session, Presentation Prep   |  None  |  None                                                | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 | Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | None  | None | 422 Life Sciences Bldg | Mark |
 | Sunday     | 07/14/2019 | | Free day  | | | |  |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | None | None |  418 Life Sciences Bldg | Lena and Mel  |
@@ -67,7 +67,7 @@
 | Thursday   | 07/25/2019 | _**08:30**_ | Pickup from lab (bring bagged lunch) | --  | -- | 418 Life Sciences Bldg  | Mark and Siela |
 | Thursday   | 07/25/2019 | 09:00 - 12:00 PM | Ag. Res. Ctr. and Museum Tour | None | None | Rock Springs | Rita Graef |
 | Thursday   | 07/25/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  | -- | -- | Rock Springs | Rita Graef |
-| Thursday   | 07/25/2019 | 01:00 - 01:30 PM | Return to lab  |  |  | Rock Springs | Mark and Siela |
+| Thursday   | 07/25/2019 | 01:00 - 01:30 PM | Return to lab  | -- | -- | Rock Springs | Mark and Siela |
 | Thursday   | 07/25/2019 | 01:30 - 02:30 PM | Transient Transformation (eGFP)  | None | None | 418 Life Sciences Bldg  | Melanie |
 | Thursday   | 07/25/2019 | 02:30 - 04:00 PM | Transient Transformation (Infection)  | None | None | 418 Life Sciences Bldg | Melanie |
 | Friday   | 07/26/2019 | 09:00 - 12:00 PM | Student Presentations  | -- | -- | 423 Life Sciences Bldg | NSF Participants |
