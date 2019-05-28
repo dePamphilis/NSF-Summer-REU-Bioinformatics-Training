@@ -43,35 +43,35 @@
 | Tuesday    | 07/16/2019 | 01:00 - 04:00 PM |  Cloning (Miniprep)  | [Reading][miniprep-reading] | None | 418 Life Sciences Bldg |                |
 | Wednesday    | 07/17/2019 | 09:00 - 12:00 PM | Cloning (Digest)  | None  | None | 418 Life Sciences Bldg |  Lena and Melanie |
 | Wednesday    | 07/17/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- |   
-| Wednesday    | 07/17/2019 | 01:00 - 04:00 PM | Tissue Culture (Intro) | [Reading 1][culture-reading1] [Reading 2][culture-reading2] | None | 418 Life Sciences Bldg |                | Melanie |
+| Wednesday    | 07/17/2019 | 01:00 - 04:00 PM | Tissue Culture (Intro) | [Reading 1][culture-reading1] [Reading 2][culture-reading2] | None | 418 Life Sciences Bldg |  Melanie |
 | Thursday    | 07/18/2019 | 09:00 - 12:00 PM | Cacao Metabolomics  |  [Reading][metabolomic-reading] | None | 418 Life Sciences Bldg |     Ben           |
-| Thursday    | 07/18/2019 | 12:00 - 01:00 PM | Lunch  |   | | |   
+| Thursday    | 07/18/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- | 
 | Thursday    | 07/18/2019 | 01:00 - 04:00 PM | Stable Transformation  |  [Reading][transformation-reading] | None | 418 Life Sciences Bldg | Melanie |
 | Friday   | 07/19/2019 | 09:00 - 10:00 PM | Stable Transformation (Cells)  | None | None | 418 Life Sciences Bldg | Melanie |
 | Friday   | 07/19/2019 | 10:00 - 12:00 PM | Stable Transformation (Embryos) | None | None | 418 Life Sciences Bldg | Melanie and Lena |
-| Friday    | 07/19/2019 | 12:00 - 01:00 PM | Lunch  |   | | | 
+| Friday    | 07/19/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- | 
 | Friday    | 07/19/2019 | 01:00 - 4:00 PM | Stable Transformation  |  [Reading][transformation-reading] | None | 418 Life Sciences Bldg | Melanie and Lena |
 | Saturday   | 07/20/2019 | | Free day  |   | | |  
 | Sunday    | 07/20/2019 |  | Free day  |   | | |  
 | Monday    | 07/22/2019 | 09:00 - 12:00 PM | Food Science Tour  | None | None | Erickson Food Science Building | Allison Brown |
-| Monday    | 07/22/2019 | 12:00 - 01:00 PM | Lunch  |   | | | 
+| Monday    | 07/22/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- | 
 | Monday    | 07/22/2019 | 01:00 - 04:00 PM | Overview Int. Ag. & Development  | None | None | 106 Ag Admin Bldg | Deanna Behring's Office |
-| Monday    | 07/22/2019 | 05:30 PM | Picnic  |  |  | Whipple Dam | 4th Floor Labs |
+| Monday    | 07/22/2019 | 05:30 PM | Picnic  | -- | -- | Whipple Dam | 4th Floor Labs |
 | Tuesday   | 07/23/2019 | 09:00 - 11:00 AM | Gultinan-Maximova Lab Meeting  | None | None | 423 Life Sciences Bldg  |  |
 | Tuesday   | 07/23/2019 | 11:00 - 12:00 PM | Transient Transformation (Leaves)  | None | None | 418 Life Sciences Bldg  | Melanie |
-| Tuesday    | 07/23/2019 | 12:00 - 01:00 PM | Lunch  |   | | | 
-| Tuesday   | 07/23/2019 | 11:00 - 12:00 PM | Transient Transformation | [Reading][transient-reading] |  | 418 Life Sciences Bldg  | Melanie |
+| Tuesday    | 07/23/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- | 
+| Tuesday   | 07/23/2019 | 11:00 - 12:00 PM | Transient Transformation | [Reading][transient-reading] | None | 418 Life Sciences Bldg  | Melanie |
 | Wednesday   | 07/24/2019 | 09:00 - 12:00 PM | Visit Student Farm/Microscopy Facility | None | None | 418 Life Sciences Bldg  |  |
-| Wednesday    | 07/24/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  |   | | |
+| Wednesday    | 07/24/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  | --  | -- | -- |
 | Wednesday   | 07/24/2019 | 01:00 - 04:00 PM | Overview Flower Proj. | None | None | 418 Life Sciences Bldg  | Akiva and Sarah |
-| Thursday   | 07/25/2019 | **08:30** | Pickup from lab (bring bagged lunch) |  |  | 418 Life Sciences Bldg  | Mark and Siela |
-| Thursday   | 07/25/2019 | 09:00 - 12:00 PM | Ag. Res. Ctr. and Museum Tour |  |  | Rock Springs | Rita Graef |
-| Thursday   | 07/25/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  |  |  | Rock Springs | Rita Graef |
+| Thursday   | 07/25/2019 | _**08:30**_ | Pickup from lab (bring bagged lunch) | --  | -- | 418 Life Sciences Bldg  | Mark and Siela |
+| Thursday   | 07/25/2019 | 09:00 - 12:00 PM | Ag. Res. Ctr. and Museum Tour | None | None | Rock Springs | Rita Graef |
+| Thursday   | 07/25/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  | -- | -- | Rock Springs | Rita Graef |
 | Thursday   | 07/25/2019 | 01:00 - 01:30 PM | Return to lab  |  |  | Rock Springs | Mark and Siela |
 | Thursday   | 07/25/2019 | 01:30 - 02:30 PM | Transient Transformation (eGFP)  | None | None | 418 Life Sciences Bldg  | Melanie |
 | Thursday   | 07/25/2019 | 02:30 - 04:00 PM | Transient Transformation (Infection)  | None | None | 418 Life Sciences Bldg | Melanie |
-| Friday   | 07/26/2019 | 09:00 - 12:00 PM | Student Presentations  |  |  | 423 Life Sciences Bldg | NSF Participants |
-| Friday   | 07/26/2019 | 12:00 - 02:00 PM | Pizza Lunch  |  |  | 423 Life Sciences Bldg | NSF Participants  |
+| Friday   | 07/26/2019 | 09:00 - 12:00 PM | Student Presentations  | -- | -- | 423 Life Sciences Bldg | NSF Participants |
+| Friday   | 07/26/2019 | 12:00 - 02:00 PM | Pizza Lunch  | -- | -- | 423 Life Sciences Bldg | NSF Participants  |
 
 
 [biology-slides]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
