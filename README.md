@@ -15,9 +15,9 @@
 | Thursday   | 06/13/2019 | 09:30 AM | Review  Session                        |                                                                       |                                                  | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 | Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | [Slides][biology-slides], [Reading Materials][biology-materials]  | | 422 Life Sciences Bldg | Mark |
 | Sunday     | 07/14/2019 | 09:30 AM | Weekend-off  | | | |  |
-| Monday     | 07/15/2019 |   09:00 - 10:30 AM  | Tour Greenhouses | |  |  402 Life Sciences Bldg | Lena and Mel  |
-| Monday     | 07/15/2019 |   10:30 - 11:30 AM   | Intro to Biotechnology | | | 402 Life Sciences Bldg | Siela/Mark |
-| Monday     | 07/15/2019 |   11:30 - 12:00 AM   | DNA Extraction | [Reading][extraction-reading] | | 402 Life Sciences Bldg | Lena and Mel              |
+| Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | |  |  402 Life Sciences Bldg | Lena and Mel  |
+| Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | | | 402 Life Sciences Bldg | Siela/Mark |
+| Monday     | 07/15/2019 |11:30 - 12:00 AM| DNA Extraction | [Reading][extraction-reading] | | 402 Life Sciences Bldg | Lena and Mel              |
 | Monday     | 07/15/2019 | 12:00 - 1:00 PM | Lunch | | | | |
 | Monday     | 07/15/2019 | 1:00 - 4:00 PM | DNA Extraction | | | 402 Life Sciences Bldg | Lena and Mel |
 | Tuesday    | 07/16/2019 | 09:00 - 12:00 PM |  DNA Extraction, Cloning |   | | 402 Life Sciences Bldg |  Lena and Mel              |
