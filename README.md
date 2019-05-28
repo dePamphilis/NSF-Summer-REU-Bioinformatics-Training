@@ -1,37 +1,37 @@
-## 2019 NSF Summer REU Bioinformatics Training Schedule
+## 2019 NSF Summer REU Training Schedule
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday     | 06/03/2019 | 09:00 AM | EHS Training (Nick) | None |   None | N308A MSC, Meet Lena in front of Millenium Science Bldg | Nick and Lena  |
 | Monday     | 06/03/2019 | 10:00 AM | WPS Training (Nick) | None |   None | 06 Eisenhower Parking Deck | Nick |
-| Monday     | 06/03/2019 | 11:00 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |                                                  | 422 Life Sciences Bldg | Siela |
+| Monday     | 06/03/2019 | 11:00 AM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            |  | Siela |
 | Monday     | 06/03/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Monday     | 06/03/2019 | 12:00 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |                        | Claude              |
-| Tuesday    | 06/04/2019 | 09:30 - 12:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 402 Life Sciences Bldg | Eric                |
+| Tuesday    | 06/04/2019 | 09:30 - 12:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
 | Tuesday     | 06/04/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers Cont. | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 402 Life Sciences Bldg | Eric                |
-| Wednesday  | 06/05/2019 | 09:30 - 12:00 PM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               | 402 Life Sciences Bldg | Noah                |
+| Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers Cont. | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
+| Wednesday  | 06/05/2019 | 09:30 - 12:00 PM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               |  | Noah                |
 | Wednesday     | 06/05/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Wednesday  | 06/05/2019 | 01:00 - 04:00 PM | Gene Expression Analysis Cont.             | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               | 402 Life Sciences Bldg | Noah                |
-| Thursday   | 06/06/2019 | 09:30 - 12:00 PM | Gene Family Analysis                   | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        | 402 Life Sciences Bldg | Eric             |
+| Wednesday  | 06/05/2019 | 01:00 - 04:00 PM | Gene Expression Analysis Cont.             | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               |  | Noah                |
+| Thursday   | 06/06/2019 | 09:30 - 12:00 PM | Gene Family Analysis                   | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        |  | Eric             |
 | Thursday     | 06/06/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Thursday   | 06/06/2019 | 01:00 - 4:00 PM | Gene Family Analysis Cont.                 | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        | 402 Life Sciences Bldg | Eric             |
-| Friday     | 06/07/2019 | 09:30 AM | Gene Set Enrichment Analysis           | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 402 Life Sciences Bldg | Noah                |
+| Thursday   | 06/06/2019 | 01:00 - 4:00 PM | Gene Family Analysis Cont.                 | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        |  | Eric             |
+| Friday     | 06/07/2019 | 09:30 AM | Gene Set Enrichment Analysis           | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    |  | Noah                |
 | Friday     | 06/07/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Friday     | 06/07/2019 | 01:00 - 04:00 PM | Gene Set Enrichment Analysis Cont.          | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 402 Life Sciences Bldg | Noah                |
-| Monday     | 06/10/2019 | 09:30 - 12:00 PM | Evolutionary Biology Talk              | [Slides][evolution-slides], [Reading Materials][evolution-materials]  |                                                  | 403 Life Sciences Bldg | Claude              |
+| Friday     | 06/07/2019 | 01:00 - 04:00 PM | Gene Set Enrichment Analysis Cont.          | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | | Noah                |
+| Monday     | 06/10/2019 | 09:30 - 12:00 PM | Evolutionary Biology Talk              | [Slides][evolution-slides], [Reading Materials][evolution-materials]  |                                                  |  | Claude              |
 | Monday     | 06/10/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Monday     | 06/10/2019 | 01:00 - 04:00 PM | Sequence Alignment                    | [Pairwise and Multiple Sequence Alignments][alignment-slides]         | [Orthogroup Alignments][alignment-exercise]      | 402 Life Sciences Bldg | Prakash                |
-| Tuesday    | 06/11/2019 | 09:30 - 12:00 PM | Phylogenetic Inference                 | [Phylogenetic Tree Inference Methods][phylogenetic-slides]            | [Orthogroup Phylogenies][phylogenetic-exercise]  | 402 Life Sciences Bldg | Prakash             |
+| Monday     | 06/10/2019 | 01:00 - 04:00 PM | Sequence Alignment                    | [Pairwise and Multiple Sequence Alignments][alignment-slides]         | [Orthogroup Alignments][alignment-exercise]      |  | Prakash                |
+| Tuesday    | 06/11/2019 | 09:30 - 12:00 PM | Phylogenetic Inference                 | [Phylogenetic Tree Inference Methods][phylogenetic-slides]            | [Orthogroup Phylogenies][phylogenetic-exercise]  |  | Prakash             |
 | Tuesday    | 06/11/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Tuesday    | 06/11/2019 | 01:00 - 04:00 PM | Phylogenetic Inference Cont.               | [Phylogenetic Tree Inference Methods][phylogenetic-slides]            | [Orthogroup Phylogenies][phylogenetic-exercise]  | 402 Life Sciences Bldg | Prakash             |
-| Wednesday  | 06/12/2019 | 09:30 - 12:00 PM | Evolutionary Rate Analysis             | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
+| Tuesday    | 06/11/2019 | 01:00 - 04:00 PM | Phylogenetic Inference Cont.               | [Phylogenetic Tree Inference Methods][phylogenetic-slides]            | [Orthogroup Phylogenies][phylogenetic-exercise]  |  | Prakash             |
+| Wednesday  | 06/12/2019 | 09:30 - 12:00 PM | Evolutionary Rate Analysis             | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  |  | Noah                |
 | Wednesday    | 06/12/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Wednesday  | 06/12/2019 | 01:00 - 04:00 PM | Evolutionary Rate Analysis Cont.          | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
+| Wednesday  | 06/12/2019 | 01:00 - 04:00 PM | Evolutionary Rate Analysis Cont.          | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  |  | Noah                |
 | Thursday   | 06/13/2019 | 09:30 - 12:00 PM | Review  Session, Presentation Prep                        | None   |   None                                               | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 | Thursday    | 06/13/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Thursday   | 06/13/2019 | 01:00 - 04:00 PM | Review  Session, Presentation Prep   |  None  |  None                                                | 402 Life Sciences Bldg | Noah, Eric, Prakash |
-| Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | None  | None | 422 Life Sciences Bldg | Mark |
+| Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | None  | None |  | Mark |
 | Sunday     | 07/14/2019 | | Free day  | | | |  |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | None | None |  418 Life Sciences Bldg | Lena and Mel  |
 | Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | None | None | 421 Life Sciences Bldg | Siela/Mark |
