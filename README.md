@@ -31,7 +31,7 @@
 | Thursday   | 06/13/2019 | 09:30 - 12:00 PM | Review  Session, Presentation Prep                        | None   |   None                                               | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 | Thursday    | 06/13/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Thursday   | 06/13/2019 | 01:00 - 04:00 PM | Review  Session, Presentation Prep   |  None  |  None                                                | 402 Life Sciences Bldg | Noah, Eric, Prakash |
-| Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | None  | None |  | Mark |
+| Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | --  | -- | -- | -- |
 | Sunday     | 07/14/2019 | | Free day  | | | |  |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | None | None |  418 Life Sciences Bldg | Lena and Mel  |
 | Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | None | None | 421 Life Sciences Bldg | Siela/Mark |
