@@ -43,7 +43,7 @@
 | Tuesday    | 07/16/2019 | 01:00 - 04:00 PM |  Cloning (Miniprep)  | [Reading][miniprep-reading] | None | 418 Life Sciences Bldg |                |
 | Wednesday    | 07/17/2019 | 09:00 - 12:00 PM | Cloning (Digest)  | None  | None | 418 Life Sciences Bldg |  Lena and Melanie |
 | Wednesday    | 07/17/2019 | 12:00 - 01:00 PM | Lunch  |   | | |   
-| Wednesday    | 07/17/2019 | 01:00 - 04:00 PM | Tissue Culture (Intro) |  [Reading][culture-reading] | None | 418 Life Sciences Bldg |                | Melanie |
+| Wednesday    | 07/17/2019 | 01:00 - 04:00 PM | Tissue Culture (Intro) | [Reading 1][culture-reading1] [Reading 2][culture-reading2] | None | 418 Life Sciences Bldg |                | Melanie |
 | Thursday    | 07/18/2019 | 09:00 - 12:00 PM | Cacao Metabolomics  |  [Reading][metabolomic-reading] | None | 418 Life Sciences Bldg |     Ben           |
 | Thursday    | 07/18/2019 | 12:00 - 01:00 PM | Lunch  |   | | |   
 | Thursday    | 07/18/2019 | 01:00 - 04:00 PM | Stable Transformation  |  [Reading][transformation-reading] | None | 418 Life Sciences Bldg | Melanie |
@@ -96,7 +96,9 @@
 [rates-slides]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [rates-exercise]:        https://galaxyproject.org/tutorials/pt_gfam/
 [extraction-reading]:    http://www.aun.edu.eg/molecular_biology/PCR(1)/Current%20Protocols%20in%20Mol.%20Biol..pdf
-[miniprep-reading]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[metabolomic-reading]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[transformation-reading]:https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs 
-[transient-reading]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[miniprep-reading]:      https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207666&type=printable
+[culture-reading1]:      https://plantscience.psu.edu/research/labs/guiltinan/publications/manuscripts/maximova2005
+[culture-reading2]:      https://journals.ashs.org/hortsci/view/journals/hortsci/50/3/article-p358.xml
+[metabolomic-reading]:   https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.13325
+[transformation-reading]:https://plantscience.psu.edu/research/labs/guiltinan/publications/manuscripts/maximova2003 
+[transient-reading]:     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4788949/pdf/13007_2016_Article_119.pdf
