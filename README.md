@@ -35,7 +35,7 @@
 | Sunday     | 07/14/2019 | | Free day  | | | |  |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | None | None |  418 Life Sciences Bldg | Lena and Mel  |
 | Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | None | None | 421 Life Sciences Bldg | Siela/Mark |
-| Monday     | 07/15/2019 |11:30 - 12:00 AM| DNA Extraction | [Reading][extraction-reading] | None | 418 Life Sciences Bldg | Lena and Mel              |
+| Monday     | 07/15/2019 |11:30 - 12:00 AM| DNA Extraction | [Reading][extraction-reading], Chp. 1.0.1, 2.0.1, 3.0.1, 7.0.1 - 7.0.13 | None | 418 Life Sciences Bldg | Lena and Mel              |
 | Monday     | 07/15/2019 | 12:00 - 01:00 PM | Lunch | | | | |
 | Monday     | 07/15/2019 | 01:00 - 04:00 PM | DNA Extraction, Cloning (Cultures) | None | None | 418 Life Sciences Bldg | Lena and Mel |
 | Tuesday    | 07/16/2019 | 09:00 - 12:00 PM |  DNA Extraction, Cloning (Intro) | None | None | 418 Life Sciences Bldg |  Lena and Mel              |
@@ -55,7 +55,7 @@
 | Sunday    | 07/20/2019 |  | Free day  |   | | |  
 | Monday    | 07/22/2019 | 09:00 - 12:00 PM | Food Science Tour  | None | None | Erickson Food Science Building | Allison Brown |
 | Monday    | 07/22/2019 | 12:00 - 01:00 PM | Lunch  |   | | | 
-| Monday    | 07/22/2019 | 01:00 - 04:00 PM | Overview Int. Ag.  | None | None | 106 Ag Admin Bldg | Deanna Behring's Office |
+| Monday    | 07/22/2019 | 01:00 - 04:00 PM | Overview Int. Ag. & Development  | None | None | 106 Ag Admin Bldg | Deanna Behring's Office |
 | Monday    | 07/22/2019 | 05:30 PM | Picnic  |  |  | Whipple Dam | 4th Floor Labs |
 | Tuesday   | 07/23/2019 | 09:00 - 11:00 AM | Gultinan-Maximova Lab Meeting  | None | None | 423 Life Sciences Bldg  |  |
 | Tuesday   | 07/23/2019 | 11:00 - 12:00 PM | Transient Transformation (Leaves)  | None | None | 418 Life Sciences Bldg  | Melanie |
@@ -95,7 +95,7 @@
 [phylogenetic-exercise]: https://galaxyproject.org/tutorials/pt_gfam/
 [rates-slides]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [rates-exercise]:        https://galaxyproject.org/tutorials/pt_gfam/
-[extraction-reading]:    https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[extraction-reading]:    http://www.aun.edu.eg/molecular_biology/PCR(1)/Current%20Protocols%20in%20Mol.%20Biol..pdf
 [miniprep-reading]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [metabolomic-reading]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [transformation-reading]:https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs 
