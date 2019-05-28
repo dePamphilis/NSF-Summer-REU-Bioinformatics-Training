@@ -14,21 +14,47 @@
 | Wednesday  | 06/12/2019 | 09:30 AM | Evolutionary Rate Analysis             | [Synonymous and Non-synonymous Rate Analysis][rates-slides]           | [Kaks Analysis][rates-exercise]                  | 402 Life Sciences Bldg | Noah                |
 | Thursday   | 06/13/2019 | 09:30 AM | Review  Session                        |                                                                       |                                                  | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 | Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | [Slides][biology-slides], [Reading Materials][biology-materials]  | | 422 Life Sciences Bldg | Mark |
-| Sunday     | 07/14/2019 | 09:30 AM | Weekend-off  | | | |  |
+| Sunday     | 07/14/2019 | | Free day  | | | |  |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | |  |  402 Life Sciences Bldg | Lena and Mel  |
 | Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | | | 402 Life Sciences Bldg | Siela/Mark |
 | Monday     | 07/15/2019 |11:30 - 12:00 AM| DNA Extraction | [Reading][extraction-reading] | | 402 Life Sciences Bldg | Lena and Mel              |
 | Monday     | 07/15/2019 | 12:00 - 1:00 PM | Lunch | | | | |
-| Monday     | 07/15/2019 | 1:00 - 4:00 PM | DNA Extraction | | | 402 Life Sciences Bldg | Lena and Mel |
-| Tuesday    | 07/16/2019 | 09:00 - 12:00 PM |  DNA Extraction, Cloning |   | | 402 Life Sciences Bldg |  Lena and Mel              |
+| Monday     | 07/15/2019 | 1:00 - 4:00 PM | DNA Extraction, Cloning (Cultures) | | | 402 Life Sciences Bldg | Lena and Mel |
+| Tuesday    | 07/16/2019 | 09:00 - 12:00 PM |  DNA Extraction, Cloning (Intro) |   | | 402 Life Sciences Bldg |  Lena and Mel              |
 | Tuesday    | 07/16/2019 | 12:00 - 1:00 PM | Lunch  |   | | |                |
-| Tuesday    | 07/16/2019 | 1:00 - 4:00 PM |  Cloning  | [Reading][miniprep-reading] |  | 402 Life Sciences Bldg |                |
-| Wednesday    | 07/17/2019 | 9:00 - 12:00 PM | Cloning  |   |  | 402 Life Sciences Bldg |  Lena and Melanie |
+| Tuesday    | 07/16/2019 | 1:00 - 4:00 PM |  Cloning (Miniprep)  | [Reading][miniprep-reading] |  | 402 Life Sciences Bldg |                |
+| Wednesday    | 07/17/2019 | 9:00 - 12:00 PM | Cloning (Digest)  |   |  | 402 Life Sciences Bldg |  Lena and Melanie |
 | Wednesday    | 07/17/2019 | 12:00 - 1:00 PM | Lunch  |   | | |   
-| Wednesday    | 07/17/2019 | 1:00 - 4:00 PM | Tissue Culture  |  [Reading][culture-reading] |  | 402 Life Sciences Bldg |                | Melanie |
+| Wednesday    | 07/17/2019 | 1:00 - 4:00 PM | Tissue Culture (Intro) |  [Reading][culture-reading] |  | 402 Life Sciences Bldg |                | Melanie |
 | Thursday    | 07/18/2019 | 9:00 - 12:00 PM | Cacao Metabolomics  |  [Reading][metabolomic-reading] |  | 402 Life Sciences Bldg |     Ben           |
 | Thursday    | 07/18/2019 | 12:00 - 1:00 PM | Lunch  |   | | |   
-| Thursday    | 07/18/2019 | 9:00 - 12:00 PM | Stable Transformation  |  [Reading][metabolomic-reading] |  | 402 Life Sciences Bldg | Melanie |
+| Thursday    | 07/18/2019 | 1:00 - 4:00 PM | Stable Transformation  |  [Reading][transformation-reading] |  | 402 Life Sciences Bldg | Melanie |
+| Friday   | 07/19/2019 | 9:00 - 10:00 PM | Stable Transformation (Cells)  |  |  | 402 Life Sciences Bldg | Melanie |
+| Friday   | 07/19/2019 | 10:00 - 12:00 PM | Stable Transformation (Embryos) |  |  | 402 Life Sciences Bldg | Melanie and Lena |
+| Friday    | 07/19/2019 | 12:00 - 1:00 PM | Lunch  |   | | | 
+| Friday    | 07/19/2019 | 1:00 - 4:00 PM | Stable Transformation  |  [Reading][transformation-reading] |  | 402 Life Sciences Bldg | Melanie and Lena |
+| Saturday   | 07/20/2019 | | Free day  |   | | |  
+| Sunday    | 07/20/2019 |  | Free day  |   | | |  
+| Monday    | 07/22/2019 | 9:00 - 12:00 PM | Food Science Tour  |  |  | 402 Life Sciences Bldg | Allison Brown |
+| Monday    | 07/22/2019 | 12:00 - 01:00 PM | Lunch  |   | | | 
+| Monday    | 07/22/2019 | 01:00 - 04:00 PM | Overview Int. Ag.  |  |  | 402 Life Sciences Bldg | Deanna Behring's Office |
+| Monday    | 07/22/2019 | 05:30 PM | Picnic  |  |  | Whipple Dam | 4th Floor Labs |
+| Tuesday   | 07/23/2019 | 09:00 - 11:00 AM | Gultinan-Maximova Lab Meeting  |  |  | 423 Life Sciences Bldg  |  |
+| Tuesday   | 07/23/2019 | 11:00 - 12:00 PM | Transient Transformation (Leaves)  |  |  | 402 Life Sciences Bldg  | Melanie |
+| Tuesday    | 07/23/2019 | 12:00 - 01:00 PM | Lunch  |   | | | 
+| Tuesday   | 07/23/2019 | 11:00 - 12:00 PM | Transient Transformation | [Reading][transient-reading] |  | 402 Life Sciences Bldg  | Melanie |
+| Wednesday   | 07/24/2019 | 09:00 - 12:00 PM | Visit Student Farm/Microscopy Facility |  |  | 402 Life Sciences Bldg  |  |
+| Wednesday    | 07/24/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  |   | | |
+| Wednesday   | 07/24/2019 | 01:00 - 04:00 PM | Overview Flower Proj. |  |  | 402 Life Sciences Bldg  | Akiva and Sarah |
+| Thursday   | 07/25/2019 | **08:30** | Pickup from lab (bring bagged lunch) |  |  | 402 Life Sciences Bldg  | Mark and Siela |
+| Thursday   | 07/25/2019 | 09:00 - 12:00 PM | Ag. Res. Ctr. and Museum Tour |  |  | Rock Springs | Rita Graef |
+| Thursday   | 07/25/2019 | 12:00 - 01:00 PM | Lunch at farm (bring bagged lunch)  |  |  | Rock Springs | Rita Graef |
+| Thursday   | 07/25/2019 | 01:00 - 01:30 PM | Return to lab  |  |  | Rock Springs | Mark and Siela |
+| Thursday   | 07/25/2019 | 01:30 - 02:30 PM | Transient Transformation (eGFP)  |  |  | 402 Life Sciences Bldg  | Melanie |
+| Thursday   | 07/25/2019 | 02:30 - 04:00 PM | Transient Transformation (Infection)  |  |  | 402 Life Sciences Bldg | Melanie |
+| Friday   | 07/26/2019 | 09:00 - 12:00 PM | Student Presentations  |  |  | 423 Life Sciences Bldg | NSF Participants |
+| Friday   | 07/26/2019 | 12:00 - 02:00 PM | Pizza Lunch  |  |  | 423 Life Sciences Bldg | NSF Participants  |
+
 
 [biology-slides]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [biology-materials]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
@@ -51,6 +77,8 @@
 [phylogenetic-exercise]: https://galaxyproject.org/tutorials/pt_gfam/
 [rates-slides]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [rates-exercise]:        https://galaxyproject.org/tutorials/pt_gfam/
-[extraction-reading]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[extraction-reading]:    https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [miniprep-reading]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [metabolomic-reading]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[transformation-reading]:https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs 
+[transient-reading]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
