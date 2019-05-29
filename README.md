@@ -7,7 +7,7 @@
 | Monday     | 06/03/2019 | 10:00 AM | WPS Training (Nick) | None |   None | 06 Eisenhower Parking Deck | Nick |
 | Tuesday     | 06/04/2019 | 11:00 - 12:00 PM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            | 421 Life Sciences Bldg | Siela |
 | Monday     | 06/03/2019 | 12:00 - 12:40 | Lunch  | -- | -- | -- | -- |
-| Monday     | 06/03/2019 | 12:45 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |                        | Claude              |
+| Monday     | 06/03/2019 | 12:45 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |  Parkig Lot N. Frear | Claude              |
 | Tuesday     | 06/04/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
 | Wednesday  | 06/05/2019 | 09:30 - 12:00 PM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               |  | Noah                |
@@ -42,12 +42,12 @@
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | --  | -- | -- | -- |
-| Sunday     | 07/14/2019 | | Free day  | | | |  |
 
 ## Week 7
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
+| Sunday     | 07/14/2019 | | Free day  | | | |  |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | None | None |  418 Life Sciences Bldg | Lena and Mel  |
 | Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | None | None | 421 Life Sciences Bldg | Siela/Mark |
 | Monday     | 07/15/2019 |11:30 - 12:00 AM| DNA Extraction | [Reading][extraction-reading], Chp. 1.0.1, 2.0.1, 3.0.1, 7.0.1 - 7.0.13 | None | 418 Life Sciences Bldg | Lena and Mel              |
