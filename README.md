@@ -38,11 +38,16 @@
 | Thursday   | 06/13/2019 | 01:00 - 04:00 PM | Review  Session, Presentation Prep   |  None  |  None                                                | 402 Life Sciences Bldg | Noah, Eric, Prakash |
 
 ## Week 3-6
+
+| **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
+| --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | --  | -- | -- | -- |
 | Sunday     | 07/14/2019 | | Free day  | | | |  |
 
 ## Week 7
 
+| **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
+| --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday     | 07/15/2019 |09:00 - 10:30 AM| Tour Greenhouses | None | None |  418 Life Sciences Bldg | Lena and Mel  |
 | Monday     | 07/15/2019 |10:30 - 11:30 AM| Intro to Biotechnology | None | None | 421 Life Sciences Bldg | Siela/Mark |
 | Monday     | 07/15/2019 |11:30 - 12:00 AM| DNA Extraction | [Reading][extraction-reading], Chp. 1.0.1, 2.0.1, 3.0.1, 7.0.1 - 7.0.13 | None | 418 Life Sciences Bldg | Lena and Mel              |
@@ -67,6 +72,8 @@
 
 ## Week 8
 
+| **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
+| --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday    | 07/22/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- | 
 | Monday    | 07/22/2019 | 01:00 - 04:00 PM | Overview Int. Ag. & Development  | None | None | 106 Ag Admin Bldg | Deanna Behring's Office |
 | Monday    | 07/22/2019 | 05:30 PM | Picnic  | -- | -- | Whipple Dam | 4th Floor Labs |
