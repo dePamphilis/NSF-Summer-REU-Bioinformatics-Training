@@ -22,6 +22,8 @@
 
 ## Week 2
 
+| **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
+| --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
 | Monday     | 06/10/2019 | 09:30 - 12:00 PM | Evolutionary Biology Talk              | [Slides][evolution-slides], [Reading Materials][evolution-materials]  |                                                  |  | Claude              |
 | Monday     | 06/10/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Monday     | 06/10/2019 | 01:00 - 04:00 PM | Sequence Alignment                    | [Pairwise and Multiple Sequence Alignments][alignment-slides]         | [Orthogroup Alignments][alignment-exercise]      |  | Prakash                |
