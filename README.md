@@ -7,7 +7,7 @@
 | Monday     | 06/03/2019 | 10:00 AM | WPS Training (Nick) | None |   None | 06 Eisenhower Parking Deck | Nick |
 | Monday     | 06/04/2019 | 11:00 - 12:00 PM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            | 421 Life Sciences Bldg | Siela |
 | Monday     | 06/03/2019 | 12:00 - 12:40 | Lunch  | -- | -- | -- | -- |
-| Monday     | 06/03/2019 | 12:45 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |  Parkig Lot N. Frear | Claude              |
+| Monday     | 06/03/2019 | 12:45 - 6:00 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |  Parkig Lot N. Frear | Claude              |
 | Tuesday    | 06/04/2019 | 09:30 - 12:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         |  | Eric                |
 | Tuesday     | 06/04/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers Cont. | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 423 Life Sciences Bldg | Eric                |
@@ -20,6 +20,8 @@
 | Friday     | 06/07/2019 | 09:30 AM | Gene Set Enrichment Analysis           | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    |  | Noah                |
 | Friday     | 06/07/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Friday     | 06/07/2019 | 01:00 - 04:00 PM | Gene Set Enrichment Analysis Cont.          | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 423 Life Sciences Bldg | Noah                |
+| Saturday   | 06/08/2019 | | Free day  |   | | |  
+| Sunday    | 06/09/2019 |  | Free day  |   | | |  
 
 ## Week 2
 
@@ -42,7 +44,7 @@
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
-| Friday - Monday     | 06/13/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | --  | -- | -- | -- |
+| Friday - Monday     | 06/14/2019 - 7/13/2019 | 09:30 AM | Costa Rica Travel | --  | -- | -- | -- |
 
 ## Week 7
 
@@ -69,12 +71,13 @@
 | Friday    | 07/19/2019 | 01:00 - 4:00 PM | Stable Transformation  |  [Reading][transformation-reading] | None | 418 Life Sciences Bldg | Melanie and Lena |
 | Saturday   | 07/20/2019 | | Free day  |   | | |  
 | Sunday    | 07/20/2019 |  | Free day  |   | | |  
-| Monday    | 07/22/2019 | 09:00 - 12:00 PM | Food Science Tour  | None | None | Erickson Food Science Building | Allison Brown |
+
 
 ## Week 8
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
+| Monday    | 07/22/2019 | 09:00 - 12:00 PM | Food Science Tour  | None | None | Erickson Food Science Building | Allison Brown |
 | Monday    | 07/22/2019 | 12:00 - 01:00 PM | Lunch  | -- | -- | -- | -- | 
 | Monday    | 07/22/2019 | 01:00 - 04:00 PM | Overview Int. Ag. & Development  | None | None | 106 Ag Admin Bldg | Deanna Behring's Office |
 | Monday    | 07/22/2019 | 05:30 PM | Picnic  | -- | -- | Whipple Dam | 4th Floor Labs |
