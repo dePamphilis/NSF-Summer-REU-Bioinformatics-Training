@@ -95,8 +95,7 @@
 | Thursday   | 07/25/2019 | 01:00 - 01:30 PM | Return to lab  | -- | -- | Rock Springs | Mark and Siela |
 | Thursday   | 07/25/2019 | 01:30 - 02:30 PM | Transient Transformation (eGFP)  | None | None | 418 Life Sciences Bldg  | Melanie |
 | Thursday   | 07/25/2019 | 02:30 - 04:00 PM | Transient Transformation (Infection)  | None | None | 418 Life Sciences Bldg | Melanie |
-| Friday   | 07/26/2019 | 09:00 - 12:00 PM | Student Presentations  | -- | -- | 423 Life Sciences Bldg | NSF Participants |
-| Friday   | 07/26/2019 | 12:00 - 02:00 PM | Pizza Lunch  | -- | -- | 423 Life Sciences Bldg | NSF Participants  |
+| Friday   | 07/26/2019 | 10:00 - 12:00 PM | Student Presentations & Pizza Lunch  | -- | -- | 423 Life Sciences Bldg | NSF Participants |
 
 
 [biology-slides]:        https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
