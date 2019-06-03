@@ -3,12 +3,12 @@
 
 | **Day**    | **Date**	  | **Time** | **Topic**                              | **Training Materials**                                                | **Exercises**                                    | **Location**           |**Instructor**       |
 | --------   | --------   | -------- | ---------                              | ---------                                                             | -----------                                      | -----------            | ------------        |
-| Monday     | 06/03/2019 | 09:00 AM | EHS Training (Nick) | None |   None | N308A MSC, Meet Lena in front of Millenium Science Bldg | Nick and Lena  |
-| Monday     | 06/03/2019 | 10:00 AM | WPS Training (Nick) | None |   None | 06 Eisenhower Parking Deck | Nick |
-| Monday     | 06/04/2019 | 11:00 - 12:00 PM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            | 421 Life Sciences Bldg | Siela |
+| Monday     | 06/03/2019 | 11:00 - 12:00 PM | Plant Biology Talk                     | [Slides][biology-slides], [Reading Materials][biology-materials] |      None                                            | 421 Life Sciences Bldg | Siela |
 | Monday     | 06/03/2019 | 12:00 - 12:40 | Lunch  | -- | -- | -- | -- |
 | Monday     | 06/03/2019 | 12:45 - 6:00 PM | Plant Taxonomy Field Trip              |       None                                                                |                          None                        |  151 North Frear | Claude              |
-| Tuesday    | 06/04/2019 | 09:30 - 12:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 308 Life Sciences Bldg | Eric                |
+| Tuesday     | 06/04/2019 | 09:00 AM | EHS Training (Nick) | None |   None | N308A MSC, Meet Lena in front of Millenium Science Bldg | Nick and Lena  |
+| Tuesday     | 06/04/2019 | 10:00 AM | WPS Training (Nick) | None |   None | 06 Eisenhower Parking Deck | Nick |
+| Tuesday    | 06/04/2019 | 11:00 - 12:00 PM | Biological Databases and Genome Browsers | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 308 Life Sciences Bldg | Eric                |
 | Tuesday     | 06/04/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Tuesday    | 06/04/2019 | 01:00 - 4:00 PM | Biological Databases and Genome Browsers Cont. | [Introduction to Bioinformatics][databases-slides]                    | [Database Searching][databases-exercise]         | 423 Life Sciences Bldg | Eric                |
 | Wednesday  | 06/05/2019 | 09:30 - 12:00 PM | Gene Expression Analysis               | [Overview of RNA-Seq Experiments and Analysis][expression-slides], [Additional Resources][expression-resources]     | [DE Analysis][expression-exercise], [Data][rna-seq-data]               | 423 Life Sciences Bldg | Noah                |
