@@ -102,7 +102,7 @@
 [biology-materials]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [databases-slides]:      https://bioboot.github.io/bioinf525_w16/class-material/lecture1-1_525_W16_large.pdf
 [databases-exercise]:    https://bioboot.github.io/bioinf525_w16/class-material/lab_1.1_w16.pdf
-[expression-slides]:     http://lmp.utoronto.ca/sites/default/files/Oct_15_LMP_bioinformatics_presentation_v2.pdf
+[expression-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [expression-resources]:  https://rnaseq.uoregon.edu/#exp-design
 [expression-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
 [rna-seq-data]:          https://psu.box.com/shared/static/6kmub1xo296mj5kme5uzzs4rsixi7g9b.zip
