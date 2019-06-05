@@ -105,7 +105,7 @@
 [expression-slides]:     http://lmp.utoronto.ca/sites/default/files/Oct_15_LMP_bioinformatics_presentation_v2.pdf
 [expression-resources]:  https://rnaseq.uoregon.edu/#exp-design
 [expression-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
-[rna-seq-data]:          https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
+[rna-seq-data]:          https://psu.box.com/shared/static/6kmub1xo296mj5kme5uzzs4rsixi7g9b.zip
 [genefamily-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [genefamily-exercise]:   https://galaxyproject.org/tutorials/pt_gfam/
 [planttribes-slides]:    https://depot.galaxyproject.org/hub/attachments/events/2019-pag/galaxy-planttribes-talk.pdf
