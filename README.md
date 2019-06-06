@@ -17,9 +17,9 @@
 | Thursday   | 06/06/2019 | 09:30 - 12:00 PM | Gene Family Analysis                   | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        | 014 Life Sciences Bldg | Eric             |
 | Thursday     | 06/06/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
 | Thursday   | 06/06/2019 | 01:00 - 4:00 PM | Gene Family Analysis Cont.                 | [Introduction to PlantTribes][planttribes-slides] [Orthology Inference][genefamily-slides]                              | [Orthogroup Sorting][genefamily-exercise]        |  423 Life Sciences Bldg | Eric             |
-| Friday     | 06/07/2019 | 09:30 AM | Introduction to Bash           | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 308 Life Sciences Bldg | Noah                |
+| Friday     | 06/07/2019 | 09:30 AM | Introduction to Bash           | Introduction to Bash  | [Introduction to Bash][bash-exercise]    | 308 Life Sciences Bldg | Noah                |
 | Friday     | 06/07/2019 | 12:00 - 01:00 PM | Lunch | -- | -- | -- | -- |
-| Friday     | 06/07/2019 | 01:00 - 04:00 PM | Introduction to Bash          | [Functional Annotation and Enrichment Analysis][enrichment-slides]  | [Gene Ontology Analysis][enrichment-exercise]    | 423 Life Sciences Bldg | Noah                |
+| Friday     | 06/07/2019 | 01:00 - 04:00 PM | Introduction to Bash          | Introduction to Bash  | [Introduction to Bash][bash-exercise]    | 308 Life Sciences Bldg | Noah                |
 | Saturday   | 06/08/2019 | | Free day  |   | | |  
 | Sunday    | 06/09/2019 |  | Free day  |   | | |  
 
@@ -109,8 +109,7 @@
 [genefamily-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [genefamily-exercise]:   https://galaxyproject.org/tutorials/pt_gfam/
 [planttribes-slides]:    https://depot.galaxyproject.org/hub/attachments/events/2019-pag/galaxy-planttribes-talk.pdf
-[enrichment-slides]:     https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
-[enrichment-exercise]:   https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html
+[bash-exercise]:         https://swcarpentry.github.io/shell-novice/
 [evolution-slides]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [evolution-materials]:   https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
 [alignment-slides]:      https://github.com/dePamphilis/NSF-Summer-REU-Bioinformatics-Training/tree/master/docs
